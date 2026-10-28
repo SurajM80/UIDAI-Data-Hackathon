@@ -36,19 +36,6 @@ We developed a holistic framework to diagnose and fix these bottlenecks:
 | **2. Strategic** | **Migration Magnets:** Industrial hubs drowning in address updates. | **Predictive Van Deployment:** Moving resources *before* crowds form. | De-loading "Super-Pincodes" (e.g., 110094). |
 | **3. Social** | **Biometric Burnout:** 2x failure rate in Labor Hubs. | **Iris Scanner Upgrade:** Targeted hardware for manual laborers. | 15% improvement in service equity. |
 
----
-
-## 📊 Key Visualizations & Findings
-
-### 1. The "Saturday Panic"
-![Saturday Spike](https://via.placeholder.com/800x400?text=Insert+Your+Saturday+Graph+Here)
-*Analysis of timestamp data reveals a massive operational bottleneck on weekends.*
-
-### 2. The "Biometric Burnout" Map
-![Labor Index](https://via.placeholder.com/800x400?text=Insert+Your+Labor+Index+Map+Here)
-*Districts in Red (Labor Index > 1.0) show high adult biometric failure rates, correlating with mining and agriculture industries.*
-
----
 
 ## 🛠️ Tech Stack & Methodology
 
